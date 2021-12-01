@@ -2,7 +2,7 @@ dependencies = ["torch", "librosa", "yaml"]
 from mel2wav import MelVocoder
 
 
-def load_melgan(model_name="multi_speaker"):
+def load_melgan(model_name="custom"):
     """
     Exposes a MelVocoder Interface
     Args:
