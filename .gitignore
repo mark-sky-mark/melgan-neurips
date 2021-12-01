@@ -1,0 +1,12 @@
+*.log
+bash/
+data/
+logs/
+logs_*/
+mel2wav/__pycache__/
+nohup.out
+sampling_changer.py
+sendsamples/
+wav_48k/
+wavs/
+wavs_*/
